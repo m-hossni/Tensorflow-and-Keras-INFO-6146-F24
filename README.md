@@ -21,7 +21,7 @@ This project aims to categorize these images into distinct classes using three d
 
 * a traditional supervised machine learning algorithm.(Jack, Mohamed) 
 
-#Dataset Description: 
+# Dataset Description: 
 
 Fashion-MNIST is a dataset of Zalando's article images: 
 
