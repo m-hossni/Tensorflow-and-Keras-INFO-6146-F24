@@ -2,9 +2,8 @@
 This repository contains the project for group 3 in  INFO 646 Tensorflow and Keras course for Fall 2024 semester @Fanshawe College
 
 # How to use this Repo:
-* make sure you put your notebook file inside project files folder
-* use the following naming convention: YOUR_NAME_TF&Keras_PROJECT#_F24 (you may suggestion other ways)
-* in your commits use the type of algorithim you're using for refrence
+*   the file "TF_F24_Project_1_comparison" contains code to plot the confusion matricies for diffrent models. this is to answer the project questions.
+* csv_output_data folder contains the CSV file extracted for the confusion matrix for diffrent models
 
 # About this Project
 This project is project #1 in Tensorflow and Keras Course for Fall-2024 Semester at Fanshawe college. The project requirement is shown below.
