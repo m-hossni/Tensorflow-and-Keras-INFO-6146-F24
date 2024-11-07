@@ -39,8 +39,8 @@ Marks: 30
 
 1. How does the accuracy of classification compare among the single-layer Artificial Neural Network, double-layers Artificial Neural Network, and the traditional supervised machine learning algorithm for the MNIST fashion dataset? 
 2. What are the differences in terms of training time between the three approaches when classifying the MNIST fashion images? 
-3. How do the three methods perform in terms of generalization to unseen data? Do any of them show signs of overfitting or underfitting? 
-4. Can you analyze and compare the learning curves of the three approaches? How does the loss and accuracy change over epochs for each method? 
+3. How do the three methods perform in terms of generalization to unseen data? Do any of them show signs of overfitting or underfitting? (training vs test accuracy)(bar plot comparison between each method) 
+4. Can you analyze and compare the learning curves of the three approaches? How does the loss and accuracy change over epochs for each method? (extract loss and accuracy curves of ANNs)
 5. Are there notable differences in the model's performance when dealing with certain classes of fashion items? Do specific approaches excel in classifying certain types of items? 
 6. How sensitive are the three methods to hyperparameter tuning? Are there certain parameters that drastically affect their performance on the MNIST fashion dataset? 
 7. What are the limitations of each approach in terms of handling the complexity and nuances of fashion images compared to more advanced techniques? 
