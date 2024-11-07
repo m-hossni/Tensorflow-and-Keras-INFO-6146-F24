@@ -2,9 +2,8 @@
 This repository contains the project for group 3 in  INFO 646 Tensorflow and Keras course for Fall 2024 semester @Fanshawe College
 
 # How to use this Repo:
-* make sure you put your notebook file inside project files folder
-* use the following naming convention: YOUR_NAME_TF&Keras_PROJECT#_F24 (you may suggestion other ways)
-* in your commits use the type of algorithim you're using for refrence
+*   the file "TF_F24_Project_1_comparison" contains code to plot the confusion matricies for diffrent models. this is to answer the project questions.
+* csv_output_data folder contains the CSV file extracted for the confusion matrix for diffrent models
 
 # About this Project
 This project is project #1 in Tensorflow and Keras Course for Fall-2024 Semester at Fanshawe college. The project requirement is shown below.
@@ -40,8 +39,8 @@ Marks: 30
 
 1. How does the accuracy of classification compare among the single-layer Artificial Neural Network, double-layers Artificial Neural Network, and the traditional supervised machine learning algorithm for the MNIST fashion dataset? 
 2. What are the differences in terms of training time between the three approaches when classifying the MNIST fashion images? 
-3. How do the three methods perform in terms of generalization to unseen data? Do any of them show signs of overfitting or underfitting? 
-4. Can you analyze and compare the learning curves of the three approaches? How does the loss and accuracy change over epochs for each method? 
+3. How do the three methods perform in terms of generalization to unseen data? Do any of them show signs of overfitting or underfitting? (training vs test accuracy)(bar plot comparison between each method) 
+4. Can you analyze and compare the learning curves of the three approaches? How does the loss and accuracy change over epochs for each method? (extract loss and accuracy curves of ANNs)
 5. Are there notable differences in the model's performance when dealing with certain classes of fashion items? Do specific approaches excel in classifying certain types of items? 
 6. How sensitive are the three methods to hyperparameter tuning? Are there certain parameters that drastically affect their performance on the MNIST fashion dataset? 
 7. What are the limitations of each approach in terms of handling the complexity and nuances of fashion images compared to more advanced techniques? 
